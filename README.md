@@ -3,6 +3,8 @@
 ## General Project Information
 This project is an online restaurant ordering system where restaurant customers can view dish categories, place an order, and view an order’s status. Additionally, restaurant workers who log in to the system are provided with a list of submitted orders from customers and can update each order’s status. The system is launched through an executable JAR file. The GUI was created using the WindowBuilder plug-in with Eclipse and “phpMyAdmin“ for the import/export of MySQL over a local web browser.
 
+### Project Demo Link: https://youtu.be/go0YeCxhSFQ
+
 ## Included Materials
 1. mysql-connector.jar - The MySQL connector file
 2. customers.sql - The database table file
